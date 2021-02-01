@@ -56,4 +56,7 @@
     <string name="id">id</string>
     <string name="favorit">Favourite</string>
     <string name="share">If you enjoy the app, make sure to share it!</string>
+    <string name="weather">Weather</string>
+    <string name="description">Description</string>
+    <string name="condition">Conditions</string>
 </resources>
