@@ -1,1 +1,1 @@
-# AndroidFundamentalsProject
+# My Travel Journal
